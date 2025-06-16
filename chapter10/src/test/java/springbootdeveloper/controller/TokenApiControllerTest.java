@@ -14,7 +14,7 @@ package springbootdeveloper.controller;
  */
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import me.ahngeunsu.springbootdeveloper.config.jwt.JwtFactory;
+import springbootdeveloper.config.jwt.JwtFactory;
 import me.ahngeunsu.springbootdeveloper.config.jwt.JwtProperties;
 import me.ahngeunsu.springbootdeveloper.domain.RefreshToken;
 import me.ahngeunsu.springbootdeveloper.domain.User;

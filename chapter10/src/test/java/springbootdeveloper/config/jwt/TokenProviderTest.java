@@ -1,7 +1,6 @@
 package springbootdeveloper.config.jwt;
 
 import io.jsonwebtoken.Jwts;
-import me.ahngeunsu.springbootdeveloper.config.jwt.JwtFactory;
 import me.ahngeunsu.springbootdeveloper.config.jwt.JwtProperties;
 import me.ahngeunsu.springbootdeveloper.config.jwt.TokenProvider;
 import me.ahngeunsu.springbootdeveloper.domain.User;
